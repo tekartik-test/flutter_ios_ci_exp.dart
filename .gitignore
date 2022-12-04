@@ -1,0 +1,6 @@
+pubspec.lock
+.local
+# IDE
+*.iml
+.vscode/
+.idea/
